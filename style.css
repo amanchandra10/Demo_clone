@@ -764,6 +764,43 @@ body,html{
     
     }
 
+
+
+
+    /* =========================================================================== */
+
+
+
+    .midbody3{
+        padding: 1rem;
+        background-color: var(--primary-background);
+    
+    }
+    .midbody3_div{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    
+    }
+    .midbody3_h2{
+        font-family: var(--font-family);
+        font-weight: 400;
+        font-style: italic;
+        text-align: center;
+        width: 100%;
+        padding-bottom: 3rem;
+        font-size: 1.8rem
+    
+    }
+    .midbody3_h5{
+        font-size: .8rem;
+        font-family: var(--font-family);
+        font-weight: 600;
+    
+    }
+    
+
     
 
   }
