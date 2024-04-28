@@ -5,7 +5,7 @@ const btnRight = document.querySelector('.slideBtnRight');
 
 const sliderImages = [
   {
-    src: '/Recources/theme_8_c5c72c66_XL.jpg',
+    src: './Recources/theme_8_c5c72c66_XL.jpg',
     text: '1'
   },
   {
